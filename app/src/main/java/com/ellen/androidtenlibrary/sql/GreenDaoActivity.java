@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatActivity;
  *
  * ## 核心原理机制
  *
- * APT
+ * FreeMarker(注意使用的并不是APT)
  *
  *
  *
